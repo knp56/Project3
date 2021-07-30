@@ -1,11 +1,11 @@
-# *Project Description*
+# Project Description*
 Kimberly Padilla
-##Project 3:
+## Project 3:
 This project required us to learn REST API with Flask, Docker, PyCharm and MySQL
 using our own selected database, in my case being: Addresses.
 
-##*Required Screenshots*
-##Project Showing Postman listing all records
+## Required Screenshots*
+## Project Showing Postman listing all records
 ![postman_AllRecords](screenshots/allrecords.png)
 
 ## Project Showing Postman showing one record a get request
@@ -28,8 +28,8 @@ using our own selected database, in my case being: Addresses.
 ## Project Showing Postman deleting a record by showing the delete request and the results in the record listing 
 * Before Deleting Jack
 
-![postman_beforedelete](screenshots/before delete.png)
+<img src="screenshots/before delete.png"></img>
 
 *After Deleting Jack
 
-![postman_delete](screenshots/after delete.png)
+<img src="screenshots/after delete.png"></img>
